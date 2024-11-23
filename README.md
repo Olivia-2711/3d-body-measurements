@@ -13,16 +13,17 @@ pip install body_measurements
 ```
 
 ## Body Measurements
-- A: Height (meters)
-- B: Chest (meters)
-- C: Hip (meters)
-- D: Waist (meters)
-- E: Thigh (meters)
-- F: Outer leg (meters)
-- G: Inner leg (meters)
-- H: Neck-Hip length (meters)
-- I: Shoulder (meters)
-- Weight (Kilos - Pending validation)
+- A: Height 163cm
+- B: Chest 81cm
+- C: Hip 81cm
+- D: Waist 77cm
+- E: thigh 45cm
+- F: Outer leg 41cm
+- G: Inner leg 29cm
+- H: Neck-Hip 35cm
+- I: Shoulder 45cm
+- Weight (Kilos - 47kg
+
 
 ## IMPORTANT
 We strongly recommend generate the vertices with 'A' pose of human body to make the measurements to more accurate as possible. 
